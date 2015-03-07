@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.9.13",
-    "express": "^4.12.2",
+    "express": "^4.12.2"
+  },
+  "devDependencies": {
     "phantomjs": "^1.9.16"
   }
 }
