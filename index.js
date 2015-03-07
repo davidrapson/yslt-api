@@ -4,9 +4,7 @@ var express = require('express');
 
 var app = express();
 
-var CONFIG = {
-    port: 8888
-};
+app.set('port', (process.env.PORT || 8000));
 
 function random(arr) {
     return arr[Math.floor(Math.random()*arr.length)]
@@ -52,5 +50,6 @@ app.get('/album.json', function (req, res) {
     });
 })
 
-console.log('Listening on localhost:' + CONFIG.port);
-app.listen(CONFIG.port)
+app.listen(app.get('port'), function() {
+  console.log("Node app is running at localhost:" + app.get('port'));
+});
