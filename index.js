@@ -40,6 +40,7 @@ function getItunesData(album, cb) {
 }
 
 app.get('/album.json', function (req, res) {
+    res.header('Access-Control-Allow-Origin', '*');
     fs.readFile('data/albums.json', 'utf8', function (err,data) {
         if (err) { return console.log(err); }
         var album = random((JSON.parse(data)).results);
