@@ -39,11 +39,11 @@ function getItunesData(album, cb) {
 
 app.get('/album.json', (req, res) => {
     res.header('Access-Control-Allow-Origin', '*');
+    res.header('Content-Type', 'application/json; charset=utf-8');
     fs.readFile('data/albums.json', 'utf8', (err,data) => {
         if (err) { return console.log(err); }
         let album = random((JSON.parse(data)).results);
         getItunesData(album, composite => {
-            res.setHeader('Content-Type', 'application/json');
             res.end(JSON.stringify(composite));
         });
     });
