@@ -5,15 +5,23 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "startDev": "nodemon -- index.js",
+    "update": "phantomjs phantom/metagrabber.js",
+    "test": "xo --space 4 -- phantom/*.js index.js"
   },
   "author": "David Rapson",
   "license": "ISC",
   "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-register": "^6.2.0",
     "bluebird": "^2.9.13",
     "express": "^4.12.2"
   },
   "devDependencies": {
-    "phantomjs": "^1.9.16"
+    "js-beautify": "^1.5.10",
+    "nodemon": "^1.8.1",
+    "phantomjs": "^1.9.16",
+    "xo": "^0.11.2"
   }
 }
