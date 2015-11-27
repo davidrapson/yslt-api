@@ -1,4 +1,4 @@
-# You should listen to (server)
+# You should listen to (API)
 
 > Randomly recommends an album from Metacritic's top rated list and pulls in information from the iTunes API.
 
