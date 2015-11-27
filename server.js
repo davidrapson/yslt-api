@@ -10,7 +10,7 @@ app.set('port', (process.env.PORT || 8000));
 
 const random = arr => arr[Math.floor(Math.random() * arr.length)];
 
-const matchArtist = (albums, artist) => albums.find(x => x.artistName.indexOf(artist) !== -1);
+const matchArtist = (albums, artist) => albums.find(x => x.artistName.includes(artist));
 
 const makeComposite = (album, itunesData) => ({
     artist: album.artist,
