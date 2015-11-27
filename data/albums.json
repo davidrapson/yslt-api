@@ -1,5 +1,5 @@
 {
-    "updated": "2015-11-24T23:08:57.414Z",
+    "updated": "2015-11-27T15:22:57.056Z",
     "results": [{
         "artist": "Kendrick Lamar",
         "releaseDate": "Mar 16, 2015",
@@ -41,6 +41,11 @@
         "score": "88",
         "title": "Sometimes I Sit And Think, And Sometimes I Just Sit"
     }, {
+        "artist": "Grimes",
+        "releaseDate": "Nov 6, 2015",
+        "score": "88",
+        "title": "Art Angels"
+    }, {
         "artist": "Bring Me the Horizon",
         "releaseDate": "Sep 11, 2015",
         "score": "88",
@@ -50,11 +55,6 @@
         "releaseDate": "May 19, 2015",
         "score": "88",
         "title": "From Kinshasa"
-    }, {
-        "artist": "Grimes",
-        "releaseDate": "Nov 6, 2015",
-        "score": "88",
-        "title": "Art Angels"
     }, {
         "artist": "James McMurtry",
         "releaseDate": "Feb 24, 2015",
@@ -436,6 +436,11 @@
         "score": "82",
         "title": "Matador"
     }, {
+        "artist": "Freddie Gibbs",
+        "releaseDate": "Nov 20, 2015",
+        "score": "82",
+        "title": "Shadow of a Doubt"
+    }, {
         "artist": "Tal National",
         "releaseDate": "Apr 13, 2015",
         "score": "82",
@@ -490,10 +495,5 @@
         "releaseDate": "Jul 31, 2015",
         "score": "81",
         "title": "If I've Only One Time Askin'"
-    }, {
-        "artist": "M.E.S.H.",
-        "releaseDate": "Jul 31, 2015",
-        "score": "81",
-        "title": "Piteous Gate"
     }]
 }
