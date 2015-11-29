@@ -17,8 +17,8 @@ const makeComposite = (album, itunesData) => ({
     title: album.title,
     releaseDate: album.releaseDate,
     score: parseInt(album.score, 10),
-    artwork: itunesData && itunesData.artworkUrl100 || false,
-    itunesUrl: itunesData && itunesData.collectionViewUrl || false
+    artwork: itunesData && itunesData.artworkUrl100 || null,
+    itunesUrl: itunesData && itunesData.collectionViewUrl || null
 });
 
 function getItunesData(album, cb) {
