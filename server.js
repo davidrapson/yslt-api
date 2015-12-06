@@ -6,7 +6,7 @@ import express from 'express';
 
 const app = express();
 
-app.set('port', (process.env.PORT || 8000));
+app.set('port', (process.env.PORT || 9000));
 
 const random = arr => arr[Math.floor(Math.random() * arr.length)];
 
