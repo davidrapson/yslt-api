@@ -1,5 +1,5 @@
 {
-    "updated": "2015-11-27T15:22:57.056Z",
+    "updated": "2015-12-06T12:53:30.701Z",
     "results": [{
         "artist": "Kendrick Lamar",
         "releaseDate": "Mar 16, 2015",
@@ -36,15 +36,15 @@
         "score": "88",
         "title": "Divers"
     }, {
-        "artist": "Courtney Barnett",
-        "releaseDate": "Mar 24, 2015",
-        "score": "88",
-        "title": "Sometimes I Sit And Think, And Sometimes I Just Sit"
-    }, {
         "artist": "Grimes",
         "releaseDate": "Nov 6, 2015",
         "score": "88",
         "title": "Art Angels"
+    }, {
+        "artist": "Courtney Barnett",
+        "releaseDate": "Mar 24, 2015",
+        "score": "88",
+        "title": "Sometimes I Sit And Think, And Sometimes I Just Sit"
     }, {
         "artist": "Bring Me the Horizon",
         "releaseDate": "Sep 11, 2015",
@@ -105,11 +105,6 @@
         "releaseDate": "May 26, 2015",
         "score": "87",
         "title": "Remembering Mountains: Unheard Songs By Karen Dalton"
-    }, {
-        "artist": "Eric Church",
-        "releaseDate": "Nov 3, 2015",
-        "score": "87",
-        "title": "Mr. Misunderstood"
     }, {
         "artist": "Jlin",
         "releaseDate": "Mar 24, 2015",
@@ -216,6 +211,11 @@
         "score": "84",
         "title": "Etch And Etch Deep"
     }, {
+        "artist": "Eric Church",
+        "releaseDate": "Nov 3, 2015",
+        "score": "84",
+        "title": "Mr. Misunderstood"
+    }, {
         "artist": "Allison Moorer",
         "releaseDate": "Mar 17, 2015",
         "score": "84",
@@ -281,6 +281,11 @@
         "score": "83",
         "title": "Mutant"
     }, {
+        "artist": "Sunn O)))",
+        "releaseDate": "Dec 4, 2015",
+        "score": "83",
+        "title": "Kannon"
+    }, {
         "artist": "Young Fathers",
         "releaseDate": "Apr 7, 2015",
         "score": "83",
@@ -341,6 +346,11 @@
         "score": "82",
         "title": "Servant of Love"
     }, {
+        "artist": "Dan Friel",
+        "releaseDate": "Oct 16, 2015",
+        "score": "82",
+        "title": "Life"
+    }, {
         "artist": "Panda Bear",
         "releaseDate": "Jan 13, 2015",
         "score": "82",
@@ -355,11 +365,6 @@
         "releaseDate": "Jan 27, 2015",
         "score": "82",
         "title": "Shackles Gift"
-    }, {
-        "artist": "Dan Friel",
-        "releaseDate": "Oct 16, 2015",
-        "score": "82",
-        "title": "Life"
     }, {
         "artist": "Anna von Hausswolff",
         "releaseDate": "Nov 13, 2015",
@@ -436,11 +441,6 @@
         "score": "82",
         "title": "Matador"
     }, {
-        "artist": "Freddie Gibbs",
-        "releaseDate": "Nov 20, 2015",
-        "score": "82",
-        "title": "Shadow of a Doubt"
-    }, {
         "artist": "Tal National",
         "releaseDate": "Apr 13, 2015",
         "score": "82",
@@ -486,14 +486,14 @@
         "score": "81",
         "title": "After"
     }, {
-        "artist": "Oneohtrix Point Never",
-        "releaseDate": "Nov 13, 2015",
-        "score": "81",
-        "title": "Garden of Delete"
-    }, {
         "artist": "Daniel Romano",
         "releaseDate": "Jul 31, 2015",
         "score": "81",
         "title": "If I've Only One Time Askin'"
+    }, {
+        "artist": "M.E.S.H.",
+        "releaseDate": "Jul 31, 2015",
+        "score": "81",
+        "title": "Piteous Gate"
     }]
 }
