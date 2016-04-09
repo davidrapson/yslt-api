@@ -21,7 +21,6 @@
     "js-beautify": "1.6.2",
     "nodemon": "1.9.1",
     "now": "0.9.19",
-    "phantomjs-prebuilt": "2.1.7",
     "xo": "0.14.0"
   }
 }
