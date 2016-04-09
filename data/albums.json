@@ -1,499 +1,499 @@
 {
-    "updated": "2015-12-06T12:53:30.701Z",
+    "updated": "2016-04-09T12:58:48.583Z",
     "results": [{
+        "artist": "David Bowie",
+        "releaseDate": "Jan 8, 2016",
+        "score": "87",
+        "title": "Blackstar"
+    }, {
+        "artist": "Robbie Fulks",
+        "releaseDate": "Apr 1, 2016",
+        "score": "87",
+        "title": "Upland Stories"
+    }, {
         "artist": "Kendrick Lamar",
-        "releaseDate": "Mar 16, 2015",
-        "score": "96",
-        "title": "To Pimp A Butterfly"
-    }, {
-        "artist": "Sufjan Stevens",
-        "releaseDate": "Mar 31, 2015",
-        "score": "90",
-        "title": "Carrie & Lowell"
-    }, {
-        "artist": "Sleater-Kinney",
-        "releaseDate": "Jan 20, 2015",
-        "score": "90",
-        "title": "No Cities to Love"
-    }, {
-        "artist": "Napalm Death",
-        "releaseDate": "Jan 27, 2015",
-        "score": "89",
-        "title": "Apex Predator - Easy Meat"
-    }, {
-        "artist": "Sam Lee",
-        "releaseDate": "Mar 16, 2015",
-        "score": "89",
-        "title": "The Fade in Time"
-    }, {
-        "artist": "Steven Wilson",
-        "releaseDate": "Mar 3, 2015",
-        "score": "89",
-        "title": "Hand.Cannot.Erase."
-    }, {
-        "artist": "Joanna Newsom",
-        "releaseDate": "Oct 23, 2015",
-        "score": "88",
-        "title": "Divers"
-    }, {
-        "artist": "Grimes",
-        "releaseDate": "Nov 6, 2015",
-        "score": "88",
-        "title": "Art Angels"
-    }, {
-        "artist": "Courtney Barnett",
-        "releaseDate": "Mar 24, 2015",
-        "score": "88",
-        "title": "Sometimes I Sit And Think, And Sometimes I Just Sit"
-    }, {
-        "artist": "Bring Me the Horizon",
-        "releaseDate": "Sep 11, 2015",
-        "score": "88",
-        "title": "That's the Spirit"
-    }, {
-        "artist": "Mbongwana Star",
-        "releaseDate": "May 19, 2015",
-        "score": "88",
-        "title": "From Kinshasa"
-    }, {
-        "artist": "James McMurtry",
-        "releaseDate": "Feb 24, 2015",
-        "score": "87",
-        "title": "Complicated Game"
-    }, {
-        "artist": "John Howard & The Night Mail",
-        "releaseDate": "Aug 21, 2015",
-        "score": "87",
-        "title": "John Howard & the Night Mail"
-    }, {
-        "artist": "Susanne Sundfør",
-        "releaseDate": "Feb 16, 2015",
-        "score": "87",
-        "title": "Ten Love Songs"
-    }, {
-        "artist": "Hiatus Kaiyote",
-        "releaseDate": "May 4, 2015",
-        "score": "87",
-        "title": "Choose Your Weapon"
-    }, {
-        "artist": "Julia Holter",
-        "releaseDate": "Sep 25, 2015",
-        "score": "87",
-        "title": "Have You in My Wilderness"
-    }, {
-        "artist": "Vince Staples",
-        "releaseDate": "Jun 30, 2015",
-        "score": "87",
-        "title": "Summertime '06"
-    }, {
-        "artist": "Jason Isbell",
-        "releaseDate": "Jul 17, 2015",
-        "score": "87",
-        "title": "Something More Than Free"
-    }, {
-        "artist": "Björk",
-        "releaseDate": "Jan 20, 2015",
-        "score": "87",
-        "title": "Vulnicura"
-    }, {
-        "artist": "Father John Misty",
-        "releaseDate": "Feb 10, 2015",
-        "score": "87",
-        "title": "I Love You, Honeybear"
-    }, {
-        "artist": "Various Artists",
-        "releaseDate": "May 26, 2015",
-        "score": "87",
-        "title": "Remembering Mountains: Unheard Songs By Karen Dalton"
-    }, {
-        "artist": "Jlin",
-        "releaseDate": "Mar 24, 2015",
-        "score": "87",
-        "title": "Dark Energy"
-    }, {
-        "artist": "Jamie xx",
-        "releaseDate": "Jun 2, 2015",
-        "score": "87",
-        "title": "In Colour"
-    }, {
-        "artist": "Dave Rawlings Machine",
-        "releaseDate": "Sep 18, 2015",
-        "score": "87",
-        "title": "Nashville Obsolete"
-    }, {
-        "artist": "Natalie Prass",
-        "releaseDate": "Jan 27, 2015",
+        "releaseDate": "Mar 4, 2016",
         "score": "86",
-        "title": "Natalie Prass"
+        "title": "untitled unmastered."
     }, {
-        "artist": "Ashley Monroe",
-        "releaseDate": "Jul 24, 2015",
+        "artist": "Margo Price",
+        "releaseDate": "Mar 25, 2016",
         "score": "86",
-        "title": "The Blade"
+        "title": "Midwest Farmer's Daughter"
     }, {
-        "artist": "Hop Along",
-        "releaseDate": "May 4, 2015",
-        "score": "86",
-        "title": "Painted Shut"
-    }, {
-        "artist": "Jim O'Rourke",
-        "releaseDate": "May 19, 2015",
-        "score": "86",
-        "title": "Simple Songs"
-    }, {
-        "artist": "Donnie Trumpet & The Social Experiment",
-        "releaseDate": "May 29, 2015",
-        "score": "86",
-        "title": "Surf"
-    }, {
-        "artist": "Destroyer",
-        "releaseDate": "Aug 28, 2015",
-        "score": "86",
-        "title": "Poison Season"
-    }, {
-        "artist": "Protomartyr",
-        "releaseDate": "Oct 9, 2015",
+        "artist": "Anderson Paak",
+        "releaseDate": "Jan 15, 2016",
         "score": "85",
-        "title": "The Agent Intellect"
+        "title": "Malibu"
     }, {
-        "artist": "Jazmine Sullivan",
-        "releaseDate": "Jan 13, 2015",
+        "artist": "Loretta Lynn",
+        "releaseDate": "Mar 4, 2016",
         "score": "85",
-        "title": "Reality Show"
+        "title": "Full Circle"
     }, {
-        "artist": "The Weather Station",
-        "releaseDate": "May 12, 2015",
-        "score": "85",
-        "title": "Loyalty"
-    }, {
-        "artist": "Bassekou Kouyate & Ngoni Ba",
-        "releaseDate": "May 12, 2015",
-        "score": "85",
-        "title": "Ba Power"
-    }, {
-        "artist": "Floating Points",
-        "releaseDate": "Nov 6, 2015",
-        "score": "85",
-        "title": "Elaenia"
-    }, {
-        "artist": "Deafheaven",
-        "releaseDate": "Oct 2, 2015",
-        "score": "85",
-        "title": "New Bermuda"
-    }, {
-        "artist": "Stornoway",
-        "releaseDate": "Apr 13, 2015",
-        "score": "85",
-        "title": "Bonxie"
-    }, {
-        "artist": "Levon Vincent",
-        "releaseDate": "Feb 10, 2015",
-        "score": "85",
-        "title": "Levon Vincent"
-    }, {
-        "artist": "Lightning Bolt",
-        "releaseDate": "Mar 24, 2015",
+        "artist": "Esperanza Spalding",
+        "releaseDate": "Mar 4, 2016",
         "score": "84",
-        "title": "Fantasy Empire"
+        "title": "Emily's D+Evolution"
     }, {
-        "artist": "Rhiannon Giddens",
-        "releaseDate": "Feb 10, 2015",
+        "artist": "Pinegrove",
+        "releaseDate": "Feb 12, 2016",
         "score": "84",
-        "title": "Tomorrow Is My Turn"
+        "title": "Cardinal"
     }, {
-        "artist": "Bop English",
-        "releaseDate": "Apr 14, 2015",
+        "artist": "Bombino",
+        "releaseDate": "Apr 1, 2016",
         "score": "84",
-        "title": "Constant Bop"
+        "title": "Azel"
     }, {
-        "artist": "Haiku Salut",
-        "releaseDate": "Jul 31, 2015",
+        "artist": "BJ the Chicago Kid",
+        "releaseDate": "Feb 19, 2016",
         "score": "84",
-        "title": "Etch And Etch Deep"
+        "title": "In My Mind"
     }, {
-        "artist": "Eric Church",
-        "releaseDate": "Nov 3, 2015",
+        "artist": "Anna Meredith",
+        "releaseDate": "Mar 4, 2016",
         "score": "84",
-        "title": "Mr. Misunderstood"
+        "title": "Varmints"
     }, {
-        "artist": "Allison Moorer",
-        "releaseDate": "Mar 17, 2015",
+        "artist": "Into It. Over It.",
+        "releaseDate": "Mar 11, 2016",
         "score": "84",
-        "title": "Down to Believing"
+        "title": "Standards"
     }, {
-        "artist": "Miguel",
-        "releaseDate": "Jun 29, 2015",
+        "artist": "The James Hunter Six",
+        "releaseDate": "Feb 5, 2016",
         "score": "84",
-        "title": "Wildheart"
+        "title": "Hold On!"
     }, {
-        "artist": "Tame Impala",
-        "releaseDate": "Jul 17, 2015",
-        "score": "84",
-        "title": "Currents"
-    }, {
-        "artist": "Dwight Yoakam",
-        "releaseDate": "Apr 14, 2015",
-        "score": "84",
-        "title": "Second Hand Heart"
-    }, {
-        "artist": "Godspeed You! Black Emperor",
-        "releaseDate": "Mar 31, 2015",
-        "score": "84",
-        "title": "Asunder, Sweet and Other Distress"
-    }, {
-        "artist": "The Bad Plus",
-        "releaseDate": "May 26, 2015",
-        "score": "84",
-        "title": "The Bad Plus Joshua Redman"
-    }, {
-        "artist": "Boz Scaggs",
-        "releaseDate": "Mar 31, 2015",
-        "score": "84",
-        "title": "A Fool to Care"
-    }, {
-        "artist": "BC Camplight",
-        "releaseDate": "Jan 20, 2015",
-        "score": "84",
-        "title": "How to Die in the North"
-    }, {
-        "artist": "Kamasi Washington",
-        "releaseDate": "May 5, 2015",
+        "artist": "Moodymann",
+        "releaseDate": "Feb 19, 2016",
         "score": "83",
-        "title": "The Epic"
+        "title": "DJ-Kicks"
     }, {
-        "artist": "Gwenno",
-        "releaseDate": "Jul 31, 2015",
+        "artist": "Bob Mould",
+        "releaseDate": "Mar 25, 2016",
         "score": "83",
-        "title": "Y Dydd Olaf"
+        "title": "Patch the Sky"
     }, {
-        "artist": "LoneLady",
-        "releaseDate": "Mar 24, 2015",
+        "artist": "Damien Jurado",
+        "releaseDate": "Mar 18, 2016",
         "score": "83",
-        "title": "Hinterland"
+        "title": "Visions of Us on the Land"
     }, {
-        "artist": "Speedy Ortiz",
-        "releaseDate": "Apr 21, 2015",
+        "artist": "Lucinda Williams",
+        "releaseDate": "Feb 5, 2016",
         "score": "83",
-        "title": "Foil Deer"
+        "title": "The  Ghosts of Highway 20"
     }, {
-        "artist": "Arca",
-        "releaseDate": "Nov 20, 2015",
+        "artist": "Emma Pollock",
+        "releaseDate": "Feb 26, 2016",
         "score": "83",
-        "title": "Mutant"
+        "title": "In Search of Harperfield"
     }, {
-        "artist": "Sunn O)))",
-        "releaseDate": "Dec 4, 2015",
+        "artist": "The Coral",
+        "releaseDate": "Mar 4, 2016",
         "score": "83",
-        "title": "Kannon"
+        "title": "Distance Inbetween"
     }, {
-        "artist": "Young Fathers",
-        "releaseDate": "Apr 7, 2015",
+        "artist": "Adrian Younge",
+        "releaseDate": "Jan 22, 2016",
         "score": "83",
-        "title": "White Men Are Black Men Too"
+        "title": "Something About April II"
     }, {
-        "artist": "Container",
-        "releaseDate": "Jun 9, 2015",
+        "artist": "Tim Hecker",
+        "releaseDate": "Apr 8, 2016",
         "score": "83",
-        "title": "LP [2015]"
+        "title": "Love Streams"
     }, {
-        "artist": "Songhoy Blues",
-        "releaseDate": "Feb 23, 2015",
+        "artist": "Grant-Lee Philips",
+        "releaseDate": "Mar 18, 2016",
         "score": "83",
-        "title": "Music in Exile"
+        "title": "The Narrows"
     }, {
-        "artist": "Gretchen Peters",
-        "releaseDate": "Feb 10, 2015",
+        "artist": "School of Seven Bells",
+        "releaseDate": "Feb 26, 2016",
         "score": "83",
-        "title": "Blackbirds"
+        "title": "SVIIB"
     }, {
-        "artist": "Royal Headache",
-        "releaseDate": "Aug 21, 2015",
+        "artist": "Deftones",
+        "releaseDate": "Apr 8, 2016",
         "score": "83",
-        "title": "High"
+        "title": "Gore"
     }, {
-        "artist": "Myrkur",
-        "releaseDate": "Aug 21, 2015",
+        "artist": "King",
+        "releaseDate": "Feb 5, 2016",
         "score": "83",
-        "title": "M"
+        "title": "We Are King"
     }, {
-        "artist": "Wilco",
-        "releaseDate": "Jul 16, 2015",
-        "score": "83",
-        "title": "Star Wars"
-    }, {
-        "artist": "Visionist",
-        "releaseDate": "Oct 9, 2015",
-        "score": "83",
-        "title": "Safe"
-    }, {
-        "artist": "Ryley Walker",
-        "releaseDate": "Mar 31, 2015",
-        "score": "83",
-        "title": "Primrose Green"
-    }, {
-        "artist": "Locrian",
-        "releaseDate": "Jul 24, 2015",
-        "score": "83",
-        "title": "Infinite Dissolution"
-    }, {
-        "artist": "Kurt Vile",
-        "releaseDate": "Sep 25, 2015",
-        "score": "83",
-        "title": "B'lieve I'm Goin' Down"
-    }, {
-        "artist": "Patty Griffin",
-        "releaseDate": "Sep 25, 2015",
+        "artist": "PJ Harvey",
+        "releaseDate": "Apr 15, 2016",
         "score": "82",
-        "title": "Servant of Love"
+        "title": "The Hope Six Demolition Project"
     }, {
-        "artist": "Dan Friel",
-        "releaseDate": "Oct 16, 2015",
+        "artist": "Tindersticks",
+        "releaseDate": "Jan 22, 2016",
         "score": "82",
-        "title": "Life"
+        "title": "The Waiting Room"
     }, {
-        "artist": "Panda Bear",
-        "releaseDate": "Jan 13, 2015",
+        "artist": "Bonnie Raitt",
+        "releaseDate": "Feb 26, 2016",
         "score": "82",
-        "title": "Panda Bear Meets the Grim Reaper"
+        "title": "Dig in Deep"
     }, {
-        "artist": "High on Fire",
-        "releaseDate": "Jun 16, 2015",
+        "artist": "Explosions in the Sky",
+        "releaseDate": "Apr 1, 2016",
         "score": "82",
-        "title": "Luminiferous"
+        "title": "The  Wilderness"
     }, {
-        "artist": "Zun Zun Egui",
-        "releaseDate": "Jan 27, 2015",
+        "artist": "Shearwater",
+        "releaseDate": "Jan 22, 2016",
         "score": "82",
-        "title": "Shackles Gift"
+        "title": "Jet Plane And Oxbow"
     }, {
-        "artist": "Anna von Hausswolff",
-        "releaseDate": "Nov 13, 2015",
+        "artist": "Roly Porter",
+        "releaseDate": "Jan 22, 2016",
         "score": "82",
-        "title": "The Miraculous"
+        "title": "Third Law"
     }, {
-        "artist": "Roebuck \"Pops\" Staples",
-        "releaseDate": "Feb 17, 2015",
+        "artist": "Savages",
+        "releaseDate": "Jan 22, 2016",
         "score": "82",
-        "title": "Don't Lose This"
+        "title": "Adore Life"
     }, {
-        "artist": "Prurient",
-        "releaseDate": "May 12, 2015",
+        "artist": "Freakwater",
+        "releaseDate": "Feb 5, 2016",
         "score": "82",
-        "title": "Frozen Niagara Falls"
+        "title": "Scheherazade"
     }, {
-        "artist": "Coliseum",
-        "releaseDate": "May 5, 2015",
+        "artist": "Charles Bradley",
+        "releaseDate": "Apr 1, 2016",
         "score": "82",
-        "title": "Anxiety's Kiss"
+        "title": "Changes"
     }, {
-        "artist": "Bob Dylan",
-        "releaseDate": "Feb 3, 2015",
-        "score": "82",
-        "title": "Shadows in the Night"
-    }, {
-        "artist": "The Pre New",
-        "releaseDate": "May 11, 2015",
-        "score": "82",
-        "title": "Male Eunuch"
-    }, {
-        "artist": "Dr. Dre",
-        "releaseDate": "Aug 7, 2015",
-        "score": "82",
-        "title": "Compton"
-    }, {
-        "artist": "Africa Express",
-        "releaseDate": "Jan 26, 2015",
-        "score": "82",
-        "title": "Africa Express Presents...Terry Riley's In C Mali"
-    }, {
-        "artist": "Wreckless Eric",
-        "releaseDate": "Nov 13, 2015",
-        "score": "82",
-        "title": "AmERICa"
-    }, {
-        "artist": "Empress Of",
-        "releaseDate": "Sep 11, 2015",
-        "score": "82",
-        "title": "Me"
-    }, {
-        "artist": "Mount Eerie",
-        "releaseDate": "Feb 3, 2015",
-        "score": "82",
-        "title": "Sauna"
-    }, {
-        "artist": "John Grant",
-        "releaseDate": "Oct 9, 2015",
-        "score": "82",
-        "title": "Grey Tickles, Black Pressure"
-    }, {
-        "artist": "Thee Oh Sees",
-        "releaseDate": "May 26, 2015",
-        "score": "82",
-        "title": "Mutilator Defeated at Last"
-    }, {
-        "artist": "Zu",
-        "releaseDate": "Mar 23, 2015",
-        "score": "82",
-        "title": "Cortar Todo"
-    }, {
-        "artist": "Gaz Coombes",
-        "releaseDate": "Jan 26, 2015",
-        "score": "82",
-        "title": "Matador"
-    }, {
-        "artist": "Tal National",
-        "releaseDate": "Apr 13, 2015",
-        "score": "82",
-        "title": "Zoy Zoy"
-    }, {
-        "artist": "Deerhunter",
-        "releaseDate": "Oct 16, 2015",
+        "artist": "Bonnie \"Prince\" Billy",
+        "releaseDate": "Mar 18, 2016",
         "score": "81",
-        "title": "Fading Frontier"
+        "title": "Epic Jammers and Fortunate Little Ditties"
     }, {
-        "artist": "Sarah Neufeld",
-        "releaseDate": "Apr 28, 2015",
+        "artist": "Woods",
+        "releaseDate": "Apr 8, 2016",
         "score": "81",
-        "title": "Never Were the Way She Was"
+        "title": "City Sun Eater in the River of Light"
     }, {
-        "artist": "Lindi Ortega",
-        "releaseDate": "Aug 7, 2015",
+        "artist": "Ray LaMontagne",
+        "releaseDate": "Mar 4, 2016",
         "score": "81",
-        "title": "Faded Gloryville"
+        "title": "Ouroboros"
     }, {
-        "artist": "Samba Touré",
-        "releaseDate": "Feb 3, 2015",
+        "artist": "The Range",
+        "releaseDate": "Mar 25, 2016",
         "score": "81",
-        "title": "Gandadiko"
+        "title": "Potential"
     }, {
-        "artist": "Waxahatchee",
-        "releaseDate": "Apr 7, 2015",
+        "artist": "Steve Mason",
+        "releaseDate": "Feb 26, 2016",
         "score": "81",
-        "title": "Ivy Tripp"
+        "title": "Meet the Humans"
     }, {
-        "artist": "No Joy",
-        "releaseDate": "Jun 9, 2015",
+        "artist": "Kevin Gates",
+        "releaseDate": "Jan 29, 2016",
         "score": "81",
-        "title": "More Faithful"
+        "title": "Islah"
     }, {
-        "artist": "Evans the Death",
-        "releaseDate": "Mar 10, 2015",
+        "artist": "Eric Bachmann",
+        "releaseDate": "Mar 25, 2016",
         "score": "81",
-        "title": "Expect Delays"
+        "title": "Eric Bachmann"
     }, {
-        "artist": "Lady Lamb the Beekeeper",
-        "releaseDate": "Mar 3, 2015",
+        "artist": "The Goon Sax",
+        "releaseDate": "Mar 18, 2016",
         "score": "81",
-        "title": "After"
+        "title": "Up to Anything"
     }, {
-        "artist": "Daniel Romano",
-        "releaseDate": "Jul 31, 2015",
+        "artist": "The Body",
+        "releaseDate": "Mar 18, 2016",
         "score": "81",
-        "title": "If I've Only One Time Askin'"
+        "title": "No One Deserves Happiness"
     }, {
-        "artist": "M.E.S.H.",
-        "releaseDate": "Jul 31, 2015",
+        "artist": "Waco Brothers",
+        "releaseDate": "Feb 26, 2016",
         "score": "81",
-        "title": "Piteous Gate"
+        "title": "Going Down in History"
+    }, {
+        "artist": "Eleanor Friedberger",
+        "releaseDate": "Jan 22, 2016",
+        "score": "81",
+        "title": "New View"
+    }, {
+        "artist": "Underworld",
+        "releaseDate": "Mar 18, 2016",
+        "score": "80",
+        "title": "Barbara Barbara, We Face a Shining Future"
+    }, {
+        "artist": "Saul Williams",
+        "releaseDate": "Jan 29, 2016",
+        "score": "80",
+        "title": "MartyrLoserKing"
+    }, {
+        "artist": "Frankie Cosmos",
+        "releaseDate": "Apr 1, 2016",
+        "score": "80",
+        "title": "Next Thing"
+    }, {
+        "artist": "Junior Boys",
+        "releaseDate": "Feb 5, 2016",
+        "score": "80",
+        "title": "Big Black Coat"
+    }, {
+        "artist": "Parquet Courts",
+        "releaseDate": "Apr 8, 2016",
+        "score": "80",
+        "title": "Human Performance"
+    }, {
+        "artist": "Flatbush Zombies",
+        "releaseDate": "Mar 11, 2016",
+        "score": "80",
+        "title": "3001: A Laced Odyssey"
+    }, {
+        "artist": "Aurora",
+        "releaseDate": "Mar 11, 2016",
+        "score": "80",
+        "title": "All My Demons Greeting Me as a Friend"
+    }, {
+        "artist": "Richmond Fontaine",
+        "releaseDate": "Mar 18, 2016",
+        "score": "80",
+        "title": "You Can't Go Back if There's Nothing To Go Back To"
+    }, {
+        "artist": "Suede",
+        "releaseDate": "Jan 22, 2016",
+        "score": "80",
+        "title": "Night Thoughts"
+    }, {
+        "artist": "Black Tusk",
+        "releaseDate": "Jan 29, 2016",
+        "score": "80",
+        "title": "Pillars of Ash"
+    }, {
+        "artist": "Clark",
+        "releaseDate": "Mar 18, 2016",
+        "score": "79",
+        "title": "The Last Panthers"
+    }, {
+        "artist": "Thao & the Get Down Stay Down",
+        "releaseDate": "Mar 4, 2016",
+        "score": "79",
+        "title": "A Man Alive"
+    }, {
+        "artist": "Brood Ma",
+        "releaseDate": "Feb 19, 2016",
+        "score": "79",
+        "title": "Daze"
+    }, {
+        "artist": "Glenn Jones",
+        "releaseDate": "Mar 18, 2016",
+        "score": "79",
+        "title": "Fleeting"
+    }, {
+        "artist": "Iggy Pop",
+        "releaseDate": "Mar 18, 2016",
+        "score": "79",
+        "title": "Post Pop Depression"
+    }, {
+        "artist": "Rokia Traoré",
+        "releaseDate": "Feb 12, 2016",
+        "score": "79",
+        "title": "Né So"
+    }, {
+        "artist": "Meilyr Jones",
+        "releaseDate": "Mar 18, 2016",
+        "score": "79",
+        "title": "2013"
+    }, {
+        "artist": "Thug Entrancer",
+        "releaseDate": "Mar 4, 2016",
+        "score": "79",
+        "title": "Arcology"
+    }, {
+        "artist": "Mothers",
+        "releaseDate": "Feb 26, 2016",
+        "score": "79",
+        "title": "When You Walk a Long Distance You Are Tired"
+    }, {
+        "artist": "Wussy",
+        "releaseDate": "Mar 4, 2016",
+        "score": "79",
+        "title": "Forever Sounds"
+    }, {
+        "artist": "Field Music",
+        "releaseDate": "Feb 5, 2016",
+        "score": "79",
+        "title": "Commontime"
+    }, {
+        "artist": "Heron Oblivion",
+        "releaseDate": "Mar 4, 2016",
+        "score": "79",
+        "title": "Heron Oblivion"
+    }, {
+        "artist": "Elliott Smith",
+        "releaseDate": "Feb 5, 2016",
+        "score": "79",
+        "title": "Heaven Adores You [Original Motion Picture Soundtrack]"
+    }, {
+        "artist": "Ash Koosha",
+        "releaseDate": "Apr 15, 2016",
+        "score": "78",
+        "title": "I AKA I"
+    }, {
+        "artist": "The Field",
+        "releaseDate": "Apr 1, 2016",
+        "score": "78",
+        "title": "The  Follower"
+    }, {
+        "artist": "Aoife O'Donovan",
+        "releaseDate": "Jan 22, 2016",
+        "score": "78",
+        "title": "In the Magic Hour"
+    }, {
+        "artist": "Mogwai",
+        "releaseDate": "Apr 1, 2016",
+        "score": "78",
+        "title": "Atomic"
+    }, {
+        "artist": "Cross Record",
+        "releaseDate": "Jan 29, 2016",
+        "score": "78",
+        "title": "Wabi Sabi"
+    }, {
+        "artist": "Open Mike Eagle",
+        "releaseDate": "Mar 25, 2016",
+        "score": "78",
+        "title": "Hella Personal Film Festival"
+    }, {
+        "artist": "MONEY",
+        "releaseDate": "Jan 29, 2016",
+        "score": "78",
+        "title": "Suicide Songs"
+    }, {
+        "artist": "Moderat",
+        "releaseDate": "Apr 1, 2016",
+        "score": "78",
+        "title": "III"
+    }, {
+        "artist": "Black Mountain",
+        "releaseDate": "Apr 1, 2016",
+        "score": "78",
+        "title": "IV"
+    }, {
+        "artist": "Turin Brakes",
+        "releaseDate": "Jan 29, 2016",
+        "score": "78",
+        "title": "Lost Property"
+    }, {
+        "artist": "Yorkston",
+        "releaseDate": "Jan 15, 2016",
+        "score": "78",
+        "title": "Everything Sacred"
+    }, {
+        "artist": "Ty Segall",
+        "releaseDate": "Jan 22, 2016",
+        "score": "78",
+        "title": "Emotional Mugger"
+    }, {
+        "artist": "Emmy the Great",
+        "releaseDate": "Mar 11, 2016",
+        "score": "78",
+        "title": "Second Love"
+    }, {
+        "artist": "Mount Moriah",
+        "releaseDate": "Feb 26, 2016",
+        "score": "78",
+        "title": "How to Dance"
+    }, {
+        "artist": "Brian Fallon",
+        "releaseDate": "Mar 11, 2016",
+        "score": "78",
+        "title": "Painkillers"
+    }, {
+        "artist": "Buddy Miller & Friends",
+        "releaseDate": "Jan 29, 2016",
+        "score": "78",
+        "title": "Cayamo Sessions at Sea"
+    }, {
+        "artist": "Cavern of Anti-Matter",
+        "releaseDate": "Feb 19, 2016",
+        "score": "77",
+        "title": "Void Beats/Invocation Trex"
+    }, {
+        "artist": "Pinkshinyultrablast",
+        "releaseDate": "Feb 26, 2016",
+        "score": "77",
+        "title": "Grandfeathered"
+    }, {
+        "artist": "Ryuichi Sakamoto",
+        "releaseDate": "Jan 15, 2016",
+        "score": "77",
+        "title": "The Revenant [Original Motion Picture Soundtrack]"
+    }, {
+        "artist": "So Pitted",
+        "releaseDate": "Feb 19, 2016",
+        "score": "77",
+        "title": "Neo"
+    }, {
+        "artist": "Josephine Foster",
+        "releaseDate": "Feb 5, 2016",
+        "score": "77",
+        "title": "No More Lamps in the Morning"
+    }, {
+        "artist": "Africaine 808",
+        "releaseDate": "Feb 19, 2016",
+        "score": "77",
+        "title": "Basar"
+    }, {
+        "artist": "Frightened Rabbit",
+        "releaseDate": "Apr 8, 2016",
+        "score": "77",
+        "title": "Painting of a Panic Attack"
+    }, {
+        "artist": "Bibio",
+        "releaseDate": "Apr 1, 2016",
+        "score": "77",
+        "title": "A Mineral Love"
+    }, {
+        "artist": "Andrew Bird",
+        "releaseDate": "Apr 1, 2016",
+        "score": "77",
+        "title": "Are You Serious"
+    }, {
+        "artist": "Peter Astor",
+        "releaseDate": "Feb 12, 2016",
+        "score": "76",
+        "title": "Spilt Milk"
+    }, {
+        "artist": "Venetian Snares",
+        "releaseDate": "Feb 19, 2016",
+        "score": "76",
+        "title": "Traditional Synthesizer Music"
+    }, {
+        "artist": "Chris Forsyth & the Solar Motel Band",
+        "releaseDate": "Mar 4, 2016",
+        "score": "76",
+        "title": "The Rarity of Experience"
+    }, {
+        "artist": "Big Ups",
+        "releaseDate": "Mar 4, 2016",
+        "score": "76",
+        "title": "Before A Million Universes"
+    }, {
+        "artist": "Quilt",
+        "releaseDate": "Feb 26, 2016",
+        "score": "76",
+        "title": "Plaza"
+    }, {
+        "artist": "John Cale",
+        "releaseDate": "Jan 22, 2016",
+        "score": "76",
+        "title": "M:FANS"
     }]
 }
